@@ -8,3 +8,6 @@
 
 102. 二叉树的层序遍历 难度: 中等 [code]()     
 [leetcode](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+
+144. 二叉树的前序遍历 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorderTraversal.c)    
+[leetcode](https://leetcode.cn/problems/binary-tree-preorder-traversal/)    
