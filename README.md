@@ -7,4 +7,4 @@
 [leetcode](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 
 102. 二叉树的层序遍历 难度: 中等 [code]()     
-103. [leetcode](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+[leetcode](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
