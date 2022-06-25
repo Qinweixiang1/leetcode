@@ -16,4 +16,4 @@
 [leetcode](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/)
 
 105. 从前序与中序遍历序列构造二叉树 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/buildTree.c)     
-106. [leetcode](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+[leetcode](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
