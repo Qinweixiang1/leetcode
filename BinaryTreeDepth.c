@@ -69,3 +69,9 @@ int maxDepth(Tree T){
     }
     return level;
 }
+
+/*递归*/
+typedef struct TreeNode* Tree;
+int maxDepth(Tree T){
+    return T==NULL?0:fmax(maxDepth(T->left), maxDepth(T->right))+1; 
+}
