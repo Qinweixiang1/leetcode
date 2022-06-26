@@ -12,6 +12,9 @@
 144. 二叉树的前序遍历 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorderTraversal.c)    
 [leetcode](https://leetcode.cn/problems/binary-tree-preorder-traversal/)   
 
+94. 二叉树的中序遍历 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/inorderTraversal.c)   
+[leetcode](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
+
 剑指 Offer 55 - II. 平衡二叉树 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isBalanced.c)     
 [leetcode](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/)
 
@@ -20,3 +23,4 @@
 
 704. 二分查找 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/binary-search.c)    
 [leetcode](https://leetcode.cn/problems/binary-search/)   
+
