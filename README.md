@@ -18,6 +18,8 @@
 [105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/buildTree.c)     
    
 [100. 相同的树](https://leetcode.cn/problems/same-tree/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isSameTree.c)   
+
+[114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) 难度: 中等  [code](https://github.com/Qinweixiang1/leetcode/blob/main/flatten.c)
    
 [704. 二分查找](https://leetcode.cn/problems/binary-search/)  难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/binary-search.c)  
 
