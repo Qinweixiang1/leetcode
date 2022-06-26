@@ -11,6 +11,26 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+/*递归*/
+#define N 100
+typedef struct TreeNode* Tree;
+
+void inorder(Tree T,int *a,int *n){
+if(T){
+  inorder(T->left,a,n);
+  a[(*n)++]=T->val;
+  inorder(T->right,a,n);
+}
+}
+
+int* inorderTraversal(Tree T, int* returnSize){
+  int *result=(int*)malloc(sizeof(int)*N); *returnSize = 0;
+  inorder(T,result,returnSize);
+  return result;
+}
+
+
+/*非递归*/
 #define N 10
 typedef struct stack *Stack;
 typedef struct TreeNode *Tree;
