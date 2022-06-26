@@ -22,3 +22,5 @@
 [704. 二分查找](https://leetcode.cn/problems/binary-search/)  难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/binary-search.c)  
 
 [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/MyStack.c) 
+
+[20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isValid.c)
