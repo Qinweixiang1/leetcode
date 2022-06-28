@@ -25,4 +25,7 @@
 
 [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/MyStack.c) 
 
+
+[1791. 找出星型图的中心节点](https://leetcode.cn/problems/find-center-of-star-graph/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/findCenter.c)
+
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isValid.c)
