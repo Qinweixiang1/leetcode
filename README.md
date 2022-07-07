@@ -40,3 +40,5 @@
 
 [2236. 判断根结点是否等于子结点之和](https://leetcode.cn/problems/root-equals-sum-of-children/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/checkTree.c)
 
+[1920. 基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/buildArray.c)
+
