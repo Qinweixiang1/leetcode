@@ -29,3 +29,6 @@
 [1791. 找出星型图的中心节点](https://leetcode.cn/problems/find-center-of-star-graph/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/findCenter.c)
 
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isValid.c)
+
+
+[876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/middleNode.c)
