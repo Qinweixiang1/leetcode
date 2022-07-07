@@ -34,3 +34,6 @@
 [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/middleNode.c)
 
 [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/hasCycle.c)
+
+[剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa/submissions/) 
+[234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isPalindrome.c)
