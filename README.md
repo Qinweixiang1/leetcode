@@ -37,3 +37,6 @@
 
 [剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa/submissions/)    
 [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isPalindrome.c)
+
+[2236. 判断根结点是否等于子结点之和](https://leetcode.cn/problems/root-equals-sum-of-children/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/checkTree.c)
+
