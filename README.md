@@ -45,3 +45,4 @@
 
 [1672. 最富有客户的资产总量](https://leetcode.cn/problems/richest-customer-wealth/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/maximumWealth.c)
 
+[1929. 数组串联](https://leetcode.cn/problems/concatenation-of-array/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/getConcatenation.c)
