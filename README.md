@@ -52,3 +52,8 @@
 [2011. 执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/finalValueAfterOperations.c)
 
 [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/SubrectangleQueries%20.c)
+
+[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/submissions/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
+
+
+
