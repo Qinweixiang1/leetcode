@@ -62,3 +62,5 @@
 [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/detectCycle.c)
 
 [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/middleNode.c)
+
+[160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/getIntersectionNode.c)
