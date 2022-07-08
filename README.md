@@ -53,7 +53,8 @@
 
 [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/SubrectangleQueries%20.c)
 
-[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/submissions/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
+[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
 
+[86. 分隔链表](https://leetcode.cn/problems/partition-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/partition.c)
 
 
