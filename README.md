@@ -30,15 +30,6 @@
 
 [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isValid.c)
 
-
-[876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/middleNode.c)
-
-[141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/hasCycle.c)   
-[142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/detectCycle.c)
-
-[剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa/submissions/)    
-[234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isPalindrome.c)
-
 [2236. 判断根结点是否等于子结点之和](https://leetcode.cn/problems/root-equals-sum-of-children/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/checkTree.c)
 
 [1920. 基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/buildArray.c)
@@ -54,8 +45,20 @@
 
 [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/SubrectangleQueries%20.c)
 
-[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
+
+
+
+# 链表
+[19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd.c) [code2](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd2.c)
 
 [86. 分隔链表](https://leetcode.cn/problems/partition-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/partition.c)
 
-[19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd.c) [code2](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd2.c)
+[21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
+
+[剑指 Offer II 027. 回文链表](https://leetcode.cn/problems/aMhZSa/submissions/)    
+[234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isPalindrome.c)
+
+[141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/hasCycle.c)   
+[142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/detectCycle.c)
+
+[876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/middleNode.c)
