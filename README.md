@@ -49,7 +49,7 @@
 
 
 # 链表
-[19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd.c) [code2](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd2.c)
+[19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd.c) 
 
 [86. 分隔链表](https://leetcode.cn/problems/partition-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/partition.c)
 
