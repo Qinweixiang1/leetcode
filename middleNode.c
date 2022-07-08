@@ -16,3 +16,20 @@ while(P){
 i=i/2;
 return Stack[i];
 }
+
+
+/* 法2 */
+typedef struct ListNode* List;
+
+List middleNode(List head){
+List fast=head,slow=head;
+if(!head->next) return head;
+
+while(fast){
+    if(!fast->next) break;
+    fast= fast->next->next;
+    slow=slow->next;
+}
+
+return slow;
+}
