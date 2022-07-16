@@ -75,3 +75,28 @@ typedef struct TreeNode* Tree;
 int maxDepth(Tree T){
     return T==NULL?0:fmax(maxDepth(T->left), maxDepth(T->right))+1; 
 }
+
+
+
+
+/*先序*/
+typedef struct TreeNode* Tree;
+#define max(a,b) ((a)>(b)?(a):(b))
+
+void traverse(Tree T, int *depth, int *result){
+if(T){
+    (*depth)++;
+    if(!T->left && !T->right) *result = max(*result, *depth);
+    traverse(T->left, depth, result);
+    traverse(T->right, depth, result);
+    (*depth)--;
+}
+}
+
+
+int maxDepth(Tree root){
+int depth=0;
+int result=0 ;
+traverse(root, &depth, &result);
+return result;
+}
