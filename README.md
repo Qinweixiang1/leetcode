@@ -12,6 +12,8 @@
 
 [145. 二叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/postorderTraversal.c)  
 
+[230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/kthSmallest.c)  
+
 [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/maxPathSum.c) 
 
 [589. N 叉树的前序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorder.c)  
