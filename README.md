@@ -10,7 +10,9 @@
  
 [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)  难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/inorderTraversal.c)  
 
-[145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/postorderTraversal.c)  
+[145. 二叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/postorderTraversal.c)  
+
+[589. N 叉树的前序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorder.c)  
 
 [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/)    
 [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/submissions/)  难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/isBalanced.c)   
