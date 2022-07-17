@@ -42,6 +42,7 @@
 
 [1920. 基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/buildArray.c)
 
+[26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeDuplicates.c)
 
 [1672. 最富有客户的资产总量](https://leetcode.cn/problems/richest-customer-wealth/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/maximumWealth.c)
 
