@@ -75,3 +75,6 @@
 
 [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/reverseList.c)
 
+[23. 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeKLists.c)
+
+
