@@ -54,7 +54,7 @@
 
 [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/twoSum.c)
 
-
+[344. 反转字符串](https://leetcode.cn/problems/reverse-string/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/reverseString.c)
 
 [1720. 解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/decode.c)
 
