@@ -14,7 +14,7 @@
 
 [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/kthSmallest.c)  
 
-[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/maxPathSum.c) 
+[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) <font color='red'>难度: 困难</font> [code](https://github.com/Qinweixiang1/leetcode/blob/main/maxPathSum.c) 
 
 [589. N 叉树的前序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorder.c)  
 
@@ -51,6 +51,9 @@
 [27. 移除元素](https://leetcode.cn/problems/remove-element/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeElement.c)
 
 [283. 移动零](https://leetcode.cn/problems/move-zeroes/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/moveZeroes.c)
+
+[283. 移动零](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/twoSum.c)
+
 
 
 [1720. 解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/decode.c)
