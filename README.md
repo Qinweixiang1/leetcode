@@ -62,6 +62,9 @@
 
 [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/SubrectangleQueries%20.c)
 
+[303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/range-sum-query-immutable.c)
+
+
 # 滑动窗口
   [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lengthOfLongestSubstring.c)
 
