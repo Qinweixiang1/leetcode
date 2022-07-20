@@ -60,6 +60,8 @@
 # 链表
 [19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeNthFromEnd.c) 
 
+[83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/deleteDuplicates.c)
+
 [86. 分隔链表](https://leetcode.cn/problems/partition-list/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/partition.c)
 
 [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeTwoLists.c)
