@@ -59,6 +59,8 @@
 
 [1476. 子矩形查询](https://leetcode.cn/problems/subrectangle-queries/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/SubrectangleQueries%20.c)
 
+# 滑动窗口
+  [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lengthOfLongestSubstring.c)
 
 
 
