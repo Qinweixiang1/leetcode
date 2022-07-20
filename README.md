@@ -52,7 +52,7 @@
 
 [283. 移动零](https://leetcode.cn/problems/move-zeroes/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/moveZeroes.c)
 
-[283. 移动零](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/twoSum.c)
+[167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/twoSum.c)
 
 
 
