@@ -48,6 +48,8 @@
 
 [1929. 数组串联](https://leetcode.cn/problems/concatenation-of-array/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/getConcatenation.c)
 
+[27. 移除元素](https://leetcode.cn/problems/remove-element/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/removeElement.c)
+
 [1720. 解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/decode.c)
 
 [2011. 执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/finalValueAfterOperations.c)
