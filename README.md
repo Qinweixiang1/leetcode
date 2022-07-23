@@ -66,11 +66,13 @@
 
 
 # 滑动窗口
-  [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lengthOfLongestSubstring.c)
+[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lengthOfLongestSubstring.c)
 
-  [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) 难度: 困难[code](https://github.com/Qinweixiang1/leetcode/blob/main/minWindow.c )
+[76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) 难度: 困难[code](https://github.com/Qinweixiang1/leetcode/blob/main/minWindow.c )
 
-  [567. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/checkInclusion.c )
+[567. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/checkInclusion.c )
+  
+[438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/findAnagrams.c )
 
 
 # 链表
