@@ -68,6 +68,8 @@
 # 滑动窗口
   [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lengthOfLongestSubstring.c)
 
+  [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) 难度: 困难[code](https://github.com/Qinweixiang1/leetcode/blob/main/minWindow.c )
+
 
 
 # 链表
