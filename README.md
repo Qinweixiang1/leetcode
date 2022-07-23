@@ -70,6 +70,7 @@
 
   [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) 难度: 困难[code](https://github.com/Qinweixiang1/leetcode/blob/main/minWindow.c )
 
+  [567. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/checkInclusion.c )
 
 
 # 链表
