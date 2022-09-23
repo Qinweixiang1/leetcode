@@ -104,4 +104,6 @@
 
 [23. 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeKLists.c)
 
+[剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/verifyPostorder.c)
+
 
