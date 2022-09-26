@@ -60,7 +60,6 @@ int** levelOrder(Tree T, int* returnSize, int** returnColumnSizes){
     *returnColumnSizes=(int*)malloc(sizeof(int)*760);
     if(!T) return NULL;
     int last=1, level=0;
-    Tree queue[N];
     Queue Q;
     Q=InitQueue(Q);
     EnQueue(Q, T);
@@ -73,7 +72,7 @@ int** levelOrder(Tree T, int* returnSize, int** returnColumnSizes){
         if(P->left) EnQueue(Q,P->left);
         if(P->right) EnQueue(Q,P->right); 
         if(Q->front == last) {
-            int *tmp=(int*)malloc(sizeof(tmp)*i);
+            int *tmp=(int*)malloc(sizeof(int)*i);
             for(int b=0;b<i;b++)
                 tmp[b]=a[b];
             result[level]=tmp;
