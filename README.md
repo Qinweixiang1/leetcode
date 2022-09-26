@@ -2,7 +2,7 @@
 
 [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/submissions/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/BinaryTreeDepth.c)   
    
-[剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) 难度: 简单 
+[剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) 难度: 简单   
 [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) 难度: 中等 
 [code](https://github.com/Qinweixiang1/leetcode/blob/main/lowestCommonAncestor.c)    
   
