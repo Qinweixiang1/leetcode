@@ -41,3 +41,14 @@ List reverseList(List head){
     p->next=NULL;
     return tmp;
 }
+
+/* 法 3 */
+typedef  struct ListNode* List;
+List reverseList(List head) {
+    if ( ! head || ! head->next ) 
+        return head;
+    List p = reverseList(head->next);
+    head->next->next = head;
+    head->next = NULL;
+    return p;
+}
