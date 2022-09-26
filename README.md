@@ -14,6 +14,9 @@
 
 [230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/kthSmallest.c)  
 
+[剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/verifyPostorder.c)
+
+
 [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/maxPathSum.c) 
 
 [589. N 叉树的前序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/preorder.c)  
@@ -103,7 +106,5 @@
 [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) 难度: 简单 [code](https://github.com/Qinweixiang1/leetcode/blob/main/reverseList.c)
 
 [23. 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) 难度: 困难 [code](https://github.com/Qinweixiang1/leetcode/blob/main/mergeKLists.c)
-
-[剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) 难度: 中等 [code](https://github.com/Qinweixiang1/leetcode/blob/main/verifyPostorder.c)
 
 
