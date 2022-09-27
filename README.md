@@ -85,6 +85,8 @@
 [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/findAnagrams.c )
 
 # 动态规划
+[509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/) 难度: 简单[code](https://github.com/Qinweixiang1/leetcode/blob/main/509_fib.c )
+
 [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) 难度: 中等[code](https://github.com/Qinweixiang1/leetcode/blob/main/coinChange.c )
 
 
