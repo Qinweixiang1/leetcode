@@ -3,6 +3,7 @@
  */
 /*
 思路一：左右指针
+错的，不能得出正确解
 */
 int* twoSum(int* numbers, int numbersSize, int target, int* returnSize){
 int *result= (int*)malloc(sizeof(int)*2);
@@ -26,6 +27,7 @@ return result;
 }
 /*============================================================================*/
 /*思路二：先排序，双层循环*/
+/*操，错的，排序会改变下标，这个题目要求是要返回下标*/
 int cmp(const void *a, const void *b){
     return *(int*)a - *(int*)b;
 }
@@ -48,7 +50,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 }
 /*============================================================================*/
 /*思路二优化：还是双层循环，但是得出答案才分配内存，申请内存地址是非常耗时的，没有答案直接return null*/
-/*这个优化和思路一结合应该会更好*/
+/*正确的解*/
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     int i,j;
     int *result=NULL;
